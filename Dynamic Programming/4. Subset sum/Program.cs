@@ -9,11 +9,11 @@
     {
         static void Main(string[] args)
         {
-            var nums = new int[] { 3, 5, 1, 4, 2 };
+            var nums = new int[] { 5, 8, 7, 0, 4, 5, 2 };
 
             CalculateSums(nums);
 
-            var targetSum = 6;
+            var targetSum = 15;
 
             CalculateTargetSum(nums, targetSum);
         }
@@ -105,6 +105,7 @@
                     builder.Append(" = " + targetSum);
 
                     Console.WriteLine(builder);
+                    builder.Clear();
 
                     return;
                 }
