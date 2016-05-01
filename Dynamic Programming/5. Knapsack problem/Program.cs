@@ -44,8 +44,6 @@
                 }
 
                 possibleSumsToAdd.Clear();
-
-                //possibleSums.UnionWith(possibleSumsToAdd);
             }
 
 
