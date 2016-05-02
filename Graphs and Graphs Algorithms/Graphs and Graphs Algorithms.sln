@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. DFS - BFS", "1. DFS - BFS\1. DFS - BFS.csproj", "{E0F84ACE-007D-40CF-91C8-88CD2E6BB07F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Topological Sorting", "2. Topological Sorting\2. Topological Sorting.csproj", "{312A6F70-FA63-43CB-9A5B-6462D720176D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E0F84ACE-007D-40CF-91C8-88CD2E6BB07F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0F84ACE-007D-40CF-91C8-88CD2E6BB07F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0F84ACE-007D-40CF-91C8-88CD2E6BB07F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{312A6F70-FA63-43CB-9A5B-6462D720176D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{312A6F70-FA63-43CB-9A5B-6462D720176D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{312A6F70-FA63-43CB-9A5B-6462D720176D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{312A6F70-FA63-43CB-9A5B-6462D720176D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
